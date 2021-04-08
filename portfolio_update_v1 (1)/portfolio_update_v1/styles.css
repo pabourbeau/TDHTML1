@@ -77,15 +77,19 @@ header .profile-image {
 .tag {
   background-color: #222;
   color: rgb(231, 66, 0);
-  padding: 10px 
-  border-radius; 5px;
+  padding: 10px; 
+  border-radius: 5px;
   display: table;
   margin: 10px auto;
+
 } 
+
 .location {
   background-color: #222;
   color: rgb(255, 123, 0);
+
 }
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
